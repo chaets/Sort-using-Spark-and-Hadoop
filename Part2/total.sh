@@ -1,0 +1,11 @@
+sbatch hadoopsort20GB.slurm
+SLEEP 3600
+sbatch hadoopsort8GB.slurm
+SLEEP 3600
+sbatch hadoopsort80GB.slurm
+SLEEP 3600
+sbatch /exports/home/cgupta5/SPPA2/sparksort8GB.slurm
+SLEEP 3600
+sbatch /exports/home/cgupta5/SPPA2/sparksort20GB.slurm
+SLEEP 3600
+sbatch /exports/home/cgupta5/SPPA2/sparksort80GB.slurm

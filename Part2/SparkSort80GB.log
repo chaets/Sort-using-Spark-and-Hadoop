@@ -1,0 +1,2 @@
+slurmstepd: error: execve(): /exports/home/cgupta5/PA2b/./sparksort80GB.sh: No such file or directory
+srun: error: hadoop-f: task 0: Exited with exit code 2

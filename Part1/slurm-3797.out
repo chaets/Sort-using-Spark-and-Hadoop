@@ -1,0 +1,10 @@
+Note: SparkSort.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+added manifest
+adding: SparkSort$1.class(in = 975) (out= 489)(deflated 49%)
+adding: SparkSort$1function_k.class(in = 812) (out= 437)(deflated 46%)
+adding: SparkSort$1function_v.class(in = 813) (out= 438)(deflated 46%)
+adding: SparkSort$1mapper_kv.class(in = 1008) (out= 505)(deflated 49%)
+adding: SparkSort.class(in = 1148) (out= 575)(deflated 49%)
+/var/spool/slurmd/job03797/slurm_script: line 23: unexpected EOF while looking for matching ``'
+/var/spool/slurmd/job03797/slurm_script: line 26: syntax error: unexpected end of file
